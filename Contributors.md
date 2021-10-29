@@ -15,3 +15,7 @@ Place: India <br/>
 Name: [Padmasri](https://github.com/sujata13) <br/>
 Place: India <br/>
 About: Web developer <br/>
+
+Name: [Nitin Mishra](https://gitub.com/imnitin28) <br/>
+Place: India <br/>
+About: Software Consultant <br/>
